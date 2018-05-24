@@ -1,0 +1,5 @@
+STRUCTURED BINDINGS
+
+* C++17 added a new feature called structured bindings.
+* Way to assign values from tuple/pair/struct into expressive variables.
+
